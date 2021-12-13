@@ -5,7 +5,8 @@ In order to run the project, setup .env and set MONGO_URL variable equal to DB c
 In order to avoid port collisions, in the source code port value is 5000
 
 
-\### Todo:
+### Todo:
+\
 - [x] make routes
 - [x] make models
 - [x] make controllers
